@@ -559,6 +559,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: flight_to_mars_facade_2001
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 53cc083b5d9630f4bb90d1fe12b22d7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 53cc083b5d9630f4bb90d1fe12b22d7a, type: 3}
 --- !u!1 &906349716 stripped
@@ -837,7 +842,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 7b878bb678d65fd4bbf253f25272a9f6,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b878bb678d65fd4bbf253f25272a9f6, type: 3}
@@ -1185,6 +1190,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: lunar_lander_f2m
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 754c6c83e55767b4996552cf2349e009,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 754c6c83e55767b4996552cf2349e009, type: 3}
