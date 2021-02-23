@@ -1,17 +1,8 @@
 fileFormatVersion: 2
-guid: 1e6a228f7b9461c4581d0854cd4b040e
+guid: 83af510b77b073b4b9b606ab72e98042
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      74: -7037446717312296006
-    second: InsideWall_right_new|InsideWall_right_newAction
-  - first:
-      74: 6784400672559149388
-    second: InsideWall_right_new|Shader NodetreeAction
-  - first:
-      74: 6029265770629563950
-    second: InsideWall_right_new|Shader NodetreeAction.001
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
     materialImportMode: 1
